@@ -1,3 +1,5 @@
+[![JS Actions](https://github.com/pampamzi/skills-write-javascript-actions/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/pampamzi/skills-write-javascript-actions/actions/workflows/my-workflow.yml)
+
 <header>
 
 <!--
